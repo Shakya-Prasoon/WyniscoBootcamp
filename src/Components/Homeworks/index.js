@@ -29,15 +29,21 @@ function Homeworks() {
           <td>Homework1</td>
           <td>Git Practice. Provide link of your repo here </td>
           <td><a href="https://github.com"> Link</a> </td>
-       
-      </tr>
+        </tr>
+
         <tr>
           <th scope="row">2</th>
           <td>Homework 2</td>
           <td>Javascript - Here is my codepen link with solutions</td>
           <td><a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a> </td>
-       
-      </tr>
+        </tr>
+        
+        <tr>
+          <th scope="row">3</th>
+          <td>Homework 2.2</td>
+          <td>Wynisco HTML Website</td>
+          <td><a href="https://codepen.io/pshakya/pen/yLboOEa"> Link</a> </td>
+        </tr>
         
       </tbody>
     </Table>
