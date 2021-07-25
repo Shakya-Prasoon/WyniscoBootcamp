@@ -1,3 +1,3 @@
-Clone repo https://github.com/sachinrajgire/May24react
+Clone repo https://github.com/Shakya-Prasoon/WyniscoBootcamp
 
 Deploy to Netlify using 
