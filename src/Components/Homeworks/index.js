@@ -56,7 +56,7 @@ function Homeworks() {
           <th scope="row">5</th>
           <td>Homework #TBD</td>
           <td>ACME</td>
-          <td><a href="https://codepen.io/pshakya/pen/yLbpMzp"> Link</a> </td>
+          <td><a href="https://shakya-prasoon.github.io/acme_co/"> Link</a> </td>
         </tr>
       </tbody>
     </Table>
