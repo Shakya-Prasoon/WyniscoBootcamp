@@ -54,8 +54,8 @@ function Homeworks() {
                        
         <tr>
           <th scope="row">5</th>
-          <td>Homework #TBD</td>
-          <td>ACME</td>
+          <td>Homework #8.1</td>
+          <td>ACME (teleport)</td>
           <td><a href="https://shakya-prasoon.github.io/acme_co/"> Link</a> </td>
         </tr>
                        
@@ -69,7 +69,7 @@ function Homeworks() {
         <tr>
           <th scope="row">7</th>
           <td>Homework 5.2</td>
-          <td>Frontier Challenge</td>
+          <td>Frontier</td>
           <td><a href="https://codepen.io/pshakya/pen/yLbpKXY"> Link</a> </td>
         </tr>
       </tbody>
