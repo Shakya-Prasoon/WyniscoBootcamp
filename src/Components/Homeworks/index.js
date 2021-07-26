@@ -62,8 +62,15 @@ function Homeworks() {
         <tr>
           <th scope="row">6</th>
           <td>Homework 4.1</td>
-          <td>ACME</td>
+          <td>Comcast</td>
           <td><a href="https://codepen.io/pshakya/pen/bGWoqGR"> Link</a> </td>
+        </tr>
+                       
+        <tr>
+          <th scope="row">7</th>
+          <td>Homework 5.2</td>
+          <td>Frontier Challenge</td>
+          <td><a href="https://codepen.io/pshakya/pen/yLbpKXY"> Link</a> </td>
         </tr>
       </tbody>
     </Table>
