@@ -54,16 +54,16 @@ function Homeworks() {
                        
         <tr>
           <th scope="row">5</th>
-          <td>Homework #8.1</td>
-          <td>ACME (teleport)</td>
-          <td><a href="https://shakya-prasoon.github.io/acme_co/"> Link</a> </td>
+          <td>Homework 4.1</td>
+          <td>Comcast</td>
+          <td><a href="https://codepen.io/pshakya/pen/bGWoqGR"> Link</a> </td>
         </tr>
                        
         <tr>
           <th scope="row">6</th>
-          <td>Homework 4.1</td>
-          <td>Comcast</td>
-          <td><a href="https://codepen.io/pshakya/pen/bGWoqGR"> Link</a> </td>
+          <td>Homework 5.1</td>
+          <td>Theme Toggle</td>
+          <td><a href="https://codepen.io/pshakya/pen/yLboOEa"> Link</a> </td>
         </tr>
                        
         <tr>
@@ -71,6 +71,13 @@ function Homeworks() {
           <td>Homework 5.2</td>
           <td>Frontier</td>
           <td><a href="https://codepen.io/pshakya/pen/yLbpKXY"> Link</a> </td>
+        </tr>
+                       
+        <tr>
+          <th scope="row">58</th>
+          <td>Homework 8.1</td>
+          <td>ACME (teleport)</td>
+          <td><a href="https://shakya-prasoon.github.io/acme_co/"> Link</a> </td>
         </tr>
       </tbody>
     </Table>
