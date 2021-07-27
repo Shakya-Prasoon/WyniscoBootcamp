@@ -41,8 +41,8 @@ function Homeworks() {
         <tr>
           <th scope="row">3</th>
           <td>Homework 2.2</td>
-          <td>Wynisco HTML Website</td>
-          <td><a href="https://codepen.io/pshakya/pen/yLboOEa"> Link</a> </td>
+          <td>Wynisco Clone </td>
+          <td><a href="https://shakya-prasoon.github.io/Clone-WyniscoWebsite/"> Link</a> </td>
         </tr>
         
         <tr>
