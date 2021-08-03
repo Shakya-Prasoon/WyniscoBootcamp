@@ -74,10 +74,17 @@ function Homeworks() {
         </tr>
                        
         <tr>
-          <th scope="row">58</th>
+          <th scope="row">8</th>
           <td>Homework 8.1</td>
           <td>ACME (teleport)</td>
           <td><a href="https://shakya-prasoon.github.io/acme_co/"> Link</a> </td>
+        </tr>
+                       
+        <tr>
+          <th scope="row">9</th>
+          <td>Homework 10.2</td>
+          <td>Lottery</td>
+          <td><a href="https://codepen.io/pshakya/pen/oNWMwmb?editors=1111"> Link</a> </td>
         </tr>
       </tbody>
     </Table>
