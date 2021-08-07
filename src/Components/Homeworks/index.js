@@ -90,7 +90,7 @@ function Homeworks() {
         <tr>
           <th scope="row">10</th>
           <td>Homework 13.2</td>
-          <td>Quiz - React Hook</td>
+          <td>Quiz - React Hook</td>``
           <td><a href="https://github.com/ShakyaPras/basic-quiz-react"> Link</a> </td>
         </tr>
       </tbody>
