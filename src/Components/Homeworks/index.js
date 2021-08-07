@@ -42,7 +42,7 @@ function Homeworks() {
           <th scope="row">3</th>
           <td>Homework 2.2</td>
           <td>Wynisco Clone </td>
-          <td><a href="https://shakya-prasoon.github.io/Clone-WyniscoWebsite/"> Link</a> </td>
+          <td><a href="https://shakyapras.github.io/Clone-WyniscoWebsite/"> Link</a> </td>
         </tr>
         
         <tr>
@@ -77,7 +77,7 @@ function Homeworks() {
           <th scope="row">8</th>
           <td>Homework 8.1</td>
           <td>ACME (teleport)</td>
-          <td><a href="https://shakya-prasoon.github.io/acme_co/"> Link</a> </td>
+          <td><a href="https://shakyapras.github.io/acme_co/"> Link</a> </td>
         </tr>
                        
         <tr>
